@@ -14,6 +14,7 @@ Here are some of the best ML areas to consider:
 ## 3. Predictive Analytics
 - **Applications:** Forecasting, risk assessment, demand prediction, fraud detection, and customer segmentation.
 - **Industries:** Finance, insurance, retail, healthcare, marketing, and logistics.
+- **Algorithms:** Classification, Clustering, Regression, Association, Anomaly detection, Time Series, Association Analysis 
 
 ## 4. Reinforcement Learning
 - **Applications:** Robotics, game playing, recommendation systems, dynamic pricing, and autonomous systems.
@@ -73,4 +74,6 @@ Here are some of the best ML areas to consider:
 
 ### References
 1. https://github.com/linux08/machine-learning-books/
+2. Prediction:
+    1. http://repo.darmajaya.ac.id/4317/1/Predictive%20Analytics%20and%20Data%20Mining.pdf
 
